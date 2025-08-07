@@ -1,4 +1,4 @@
-# Parks
+# Long Parks
 
 ## Golden Gate Park
 Golden Gate Park stretches over three miles in San Francisco, transforming former sand dunes into a long ribbon of greenery. Construction began in the 1870s under engineer William Hammond Hall and gardener John McLaren, who shaped the linear park to provide residents with a scenic escape and hosted world fairs, museums, and recreation.
