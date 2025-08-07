@@ -1,2 +1,2 @@
-Recreate animations for cosmos2
+# Recreate animations for cosmos
 Do it for Carl Sagan's cosmos using AI image generation
